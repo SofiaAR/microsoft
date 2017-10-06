@@ -1,0 +1,33 @@
+body{
+  text-align : center;/*sirve para alinear texto e imagenes*/
+  color: black;
+}
+.cuadrado-color{
+  background-color: red;
+  padding-bottom: 20px; /*dar espacio*/
+}
+p{
+  font-family: fantasy;
+  color: black;
+}
+h1{
+  /*font-family: 'Indie Flower', cursive;*/
+  font-family: 'Bree Serif', serif;
+}
+h2{
+  color: black;
+  font-family: 'Amatic SC';
+}
+.imagen-banda{
+  width:1000px;
+  height: auto;
+}
+.enlaces{
+  border-top:2px solid black;
+}
+h5{
+  font-family: 'Rye', cursive;
+}
+h6{
+  font-family: 'Rye';
+}
